@@ -11,9 +11,11 @@ Oryginalny gamemode serwera SocietyMTA z roku 2019.
 
 ## Zawartość
 * W owym repozytorium znajduje się cały gamemode serwera SocietyMTA z 2019 roku.
+* Wszystkie modele i tekstury, które znajdowały się na SocietyMTA.
 * Poprawnie skonfigurowana baza danych bez danych graczy.
 * Plik Access Control List.
-* Modele z serwera możecie znaleść pod adresem: https://www87.zippyshare.com/v/4sMKa4GX/file.html
+* Zasoby z serwera możecie znaleźć pod adresem: https://www22.zippyshare.com/v/8RYIkwYx/file.html
+* Modele z serwera możecie znaleźć pod adresem: https://www87.zippyshare.com/v/4sMKa4GX/file.html
 
 ### Pomoc
 Całkowita konfiguracja gamemode'a pod twój serwer:
