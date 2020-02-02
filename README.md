@@ -16,6 +16,6 @@ Oryginalny gamemode serwera SocietyMTA z roku 2019.
 * Modele z serwera możecie znaleść pod adresem: https://www87.zippyshare.com/v/4sMKa4GX/file.html
 
 ### Pomoc
-Całkowita konfiguracja gamemode'a pod twój serwera:
+Całkowita konfiguracja gamemode'a pod twój serwer:
 * Cena: 20 PLN
 * Metody płatności: PayPal, PaySafeCard
