@@ -15,7 +15,7 @@ Oryginalny gamemode serwera SocietyMTA z roku 2019.
 * Poprawnie skonfigurowana baza danych bez danych graczy.
 * Plik Access Control List.
 * Plik odpowiadający za autostart skryptów.
-* Zasoby z serwera możecie znaleźć pod adresem: https://www22.zippyshare.com/v/8RYIkwYx/file.html
+* Skrypty z serwera możecie znaleźć pod adresem: https://www22.zippyshare.com/v/8RYIkwYx/file.html
 * Modele z serwera możecie znaleźć pod adresem: https://www87.zippyshare.com/v/4sMKa4GX/file.html
 
 ### Pomoc
