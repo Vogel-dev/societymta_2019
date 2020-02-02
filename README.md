@@ -5,7 +5,8 @@ Oryginalny gamemode serwera SocietyMTA z roku 2019.
 ## Pierwotny właściciel: Vogel
 * Autorem map zawartych w repozytorium jest: Dudek
 
-Gamemode przeznaczam do użytku ogólnodostępnego, jednocześnie zakazuje podpisywania się jako właściciel gamemode'a oraz usuwania nagłówków skryptów i adnotacji.
+* Gamemode przeznaczam do użytku ogólnodostępnego, jednocześnie zakazuje podpisywania się jako właściciel gamemode'a oraz usuwania nagłówków skryptów i adnotacji.
+
 * Żaden ze skryptów nie posiada zawartego backdoor'a.
 
 ## Zawartość
