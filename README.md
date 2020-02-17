@@ -22,3 +22,4 @@ Oryginalny gamemode serwera SocietyMTA z roku 2019.
 Całkowita konfiguracja gamemode'a pod twój serwer:
 * Cena: 20 PLN
 * Metody płatności: PayPal, PaySafeCard
+* Kontakt: Vogel#4905
