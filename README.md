@@ -1,25 +1,29 @@
-![SocietyLogo](https://i.imgur.com/VxrjwQt.png)
+<p align="center">
+  <img src="https://i.imgur.com/uwWxPWW.png">
+</p>
+
 # SocietyMTA
-Oryginalny gamemode serwera SocietyMTA z roku 2019.
+RPG gamemode developed for the Multi Theft Auto platform, primarily written in Lua and utilizing a MySQL database. The gamemode was personally developed by me in 2019 and is now publicly available. You are permitted to use code snippets or the entire gamemode to create your own servers. However, please refrain from removing my attribution from the asset descriptions.
 
-## Pierwotny właściciel: Vogel
-* Autorem map zawartych w repozytorium jest: Dudek
+## Authors
+* My role in the project was to provide comprehensive technical support, develop new solutions and scripts, and upload them to the server.
+* The code includes appropriate annotations for items that were not authored by me. Some portions of the code were obtained from the community and subsequently modified.
+* The maps for the server were created by: Dudek.
+* Please note that the vehicle models used in the project are not original and, as a result, are not included in the package.
 
-* Gamemode przeznaczam do użytku ogólnodostępnego, jednocześnie zakazuje podpisywania się jako właściciel gamemode'a oraz usuwania nagłówków skryptów i adnotacji.
+## Repository content
+* All Lua scripts used on the server
+* MySQL database structure
+* Access control list file
+* File responsible for the automatic execution of scripts at server startup
+* Additional required modules
 
-* Żaden ze skryptów nie posiada zawartego backdoor'a.
+### Repository does not contain:
 
-## Zawartość
-* W owym repozytorium znajduje się cały gamemode serwera SocietyMTA z 2019 roku.
-* Wszystkie modele i tekstury, które znajdowały się na SocietyMTA.
-* Poprawnie skonfigurowana baza danych bez danych graczy.
-* Plik Access Control List.
-* Plik odpowiadający za automatyczne uruchomienie skryptów.
-* Skrypty z serwera możecie znaleźć pod adresem: https://www22.zippyshare.com/v/8RYIkwYx/file.html
-* Modele z serwera możecie znaleźć pod adresem: https://www87.zippyshare.com/v/4sMKa4GX/file.html
+* Forum code or synchronization of the game account with the forum account
+* Vehicle models
 
-### Pomoc
-Całkowita konfiguracja gamemode'a pod twój serwer:
-* Cena: 20 PLN
-* Metody płatności: PayPal, PaySafeCard
-* Discord: Vogel#4905
+#### Support
+* The gamemode is no longer supported by me.
+* I do not provide assistance with its installation and connection to the database.
+* I do not share models of vehicles that were present on the server.
