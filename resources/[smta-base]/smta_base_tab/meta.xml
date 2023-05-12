@@ -1,0 +1,8 @@
+<meta>	
+	<script src="c.lua" type="client" cache="false" />
+	<file src="gfx/scoreboard.png"/>
+	<file src="gfx/belka.png"/>
+	<file src="gfx/localPlayer.png"/>
+	<file src="gfx/wyszukiwanie.png"/>
+	<file src="cz.ttf"/>
+</meta>

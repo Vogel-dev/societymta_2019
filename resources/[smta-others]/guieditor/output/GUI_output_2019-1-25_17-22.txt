@@ -1,0 +1,16 @@
+
+GUIEditor = {
+    edit = {},
+    memo = {}
+}
+addEventHandler("onClientResourceStart", resourceRoot,
+    function()
+        GUIEditor.memo[1] = guiCreateMemo(663, 600, 20, 105, "", false)
+
+
+        GUIEditor.memo[2] = guiCreateMemo(647, 561, 20, 21, "", false)
+
+
+        GUIEditor.edit[1] = guiCreateEdit(602, 567, 15, 15, "", false)    
+    end
+)

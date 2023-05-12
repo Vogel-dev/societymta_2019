@@ -1,0 +1,6 @@
+<meta>
+	<oop>true</oop>	
+
+    <script src="oprowadzenie.lua" type="server" />
+
+</meta>

@@ -1,0 +1,14 @@
+<meta>
+	<file src="normal.ttf" />
+	<file src="gfx/circle.png" />
+	<file src="gfx/progressbar_background.png" />
+	<file src="gfx/progressbar.png" />
+	<file src="gfx/progressbar_light.png" />
+	<file src="gfx/progressbar_mask_light.png" />
+	<file src="gfx/heart_icon.png" />
+	<file src="gfx/food_icon.png" />
+	<file src="gfx/reputation_icon.png" />
+	<file src="gfx/food.png" />
+	<file src="gfx/heart.png" />
+	<script src="c.lua" type="client" cache="false"/>
+</meta>

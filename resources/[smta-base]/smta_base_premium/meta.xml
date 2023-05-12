@@ -1,0 +1,23 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false" /> 
+	<file src="cz.ttf" />
+ <file src="cz2.ttf" />
+<file src="gfx/bg.png" />
+<file src="gfx/bgkupno.png" />
+<file src="gfx/bgkupno2.png" />
+<file src="gfx/bgwymiana.png" />
+<file src="gfx/bggielda.png" />
+<file src="gfx/button_off.png" />
+<file src="gfx/gielda_off.png" />
+<file src="gfx/button_off2.png" />
+<file src="gfx/button_on2.png" />
+<file src="gfx/rec.png" />
+<file src="gfx/kupno_off.png" />
+<file src="gfx/wymiana_off.png" />
+<file src="gfx/button_on.png" />
+<file src="gfx/gielda_on.png" />
+<file src="gfx/kupno_on.png" />
+<file src="gfx/wymiana_on.png" />
+
+</meta>

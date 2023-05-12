@@ -1,0 +1,23 @@
+<meta>
+	<!-- client-side -->
+	<min_mta_version client="1.5.5" server="1.5.2" />
+	<oop>true</oop>
+	<script src="c.lua" type="client" cache="false" />
+	
+	<!-- server-side -->
+	<script src="s.lua" type="server" />
+	<!-- files -->
+	<file src="fx/car_paint.fx" type="client" />
+	<file src="fx/mta-helper.fx" type="client" />
+	<file src="fx/water.fx" type="client" />
+	<file src="fx/addBlend.fx" type="client" />
+	<file src="fx/blurH.fx" type="client" />
+	<file src="fx/blurV.fx" type="client" />
+	<file src="fx/skidmarks.fx" type="client" />
+	<file src="fx/brightPass.fx" type="client" />
+	<file src="fx/radial_blur.fx" type="client" />
+	<file src="images/cube_env256.dds" type="client" />
+	<file src="images/smallnoise3d.dds" type="client" />
+	<file src="images/radial_mask.tga" type="client" />	
+	<oop>true</oop>
+</meta>

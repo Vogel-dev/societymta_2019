@@ -1,0 +1,9 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false" /> 
+	<file src="cz.ttf" />
+	<file src="gfx/drzwi.png" />
+	<file src="gfx/silnik.png" />
+	<file src="gfx/swiatla.png" />
+	<file src="gfx/zderzak.png" />
+</meta>

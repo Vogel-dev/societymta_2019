@@ -1,0 +1,15 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false" /> 
+	<file src="cz.ttf" />
+	<oop>true</oop>
+	<min_mta_version client="1.3.0-9.04431" server="1.5.4-9.11413" />
+
+	<file src="klik.mp3" />
+	<file src="gfx/tlo.png" />
+	<file src="gfx/napis.png" />
+	<file src="gfx/klawisz_off.png" />
+	<file src="gfx/klawisz_on.png" />
+	<file src="gfx/editbox_on.png" />
+	<file src="gfx/editbox_off.png" />
+</meta>

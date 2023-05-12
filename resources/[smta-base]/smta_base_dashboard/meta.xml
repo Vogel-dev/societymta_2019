@@ -1,0 +1,13 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false" /> 
+	<file src="cz.ttf" />
+	<file src="gfx/ustawienia_off.png" />
+	<file src="gfx/ustawienia_on.png" />
+	<file src="gfx/auta_off.png" />
+	<file src="gfx/auta_on.png" />
+	<file src="gfx/informacje_off.png" />
+	<file src="gfx/informacje_on.png" />
+	<file src="gfx/switch_on.png" />
+	<file src="gfx/switch_off.png" />
+</meta>

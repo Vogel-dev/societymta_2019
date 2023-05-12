@@ -1,0 +1,12 @@
+<map edf:definitions="editor_main">
+    <object id="object (vgschinalion1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3471" doublesided="false" scale="1.5" dimension="0" posX="-2026.5" posY="483.79999" posZ="36" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (csrangel_lvs) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3462" doublesided="false" scale="2.4000001" dimension="0" posX="-1980.9" posY="429.20001" posZ="37.7" rotX="1.996" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_ROADBARRIER_6) (2)" breakable="false" interior="0" collisions="true" alpha="255" model="1459" doublesided="false" scale="1" dimension="0" posX="-1982.9" posY="431.39999" posZ="34.8" rotX="0" rotY="0" rotZ="223.996"></object>
+    <object id="object (DYN_ROADBARRIER_6) (3)" breakable="false" interior="0" collisions="true" alpha="255" model="1459" doublesided="false" scale="1" dimension="0" posX="-1983.8" posY="429.20001" posZ="34.8" rotX="0" rotY="0" rotZ="269.995"></object>
+    <object id="object (DYN_ROADBARRIER_6) (4)" breakable="false" interior="0" collisions="true" alpha="255" model="1459" doublesided="false" scale="1" dimension="0" posX="-1982.8" posY="427" posZ="34.8" rotX="0" rotY="0" rotZ="317.99"></object>
+    <object id="object (DYN_ROADBARRIER_6) (6)" breakable="false" interior="0" collisions="true" alpha="255" model="1459" doublesided="false" scale="1" dimension="0" posX="-1980.6" posY="426.29999" posZ="34.8" rotX="0" rotY="0" rotZ="9.987"></object>
+    <object id="object (DYN_ROADBARRIER_6) (7)" breakable="false" interior="0" collisions="true" alpha="255" model="1459" doublesided="false" scale="1" dimension="0" posX="-1978.5" posY="427.60001" posZ="34.8" rotX="0" rotY="0" rotZ="55.986"></object>
+    <object id="object (DYN_ROADBARRIER_6) (9)" breakable="false" interior="0" collisions="true" alpha="255" model="1459" doublesided="false" scale="1" dimension="0" posX="-1977.8" posY="429.89999" posZ="34.8" rotX="0" rotY="0" rotZ="95.98"></object>
+    <object id="object (DYN_ROADBARRIER_6) (11)" breakable="false" interior="0" collisions="true" alpha="255" model="1459" doublesided="false" scale="1" dimension="0" posX="-1979.4" posY="432.29999" posZ="34.8" rotX="0" rotY="0" rotZ="149.98"></object>
+    <object id="object (CJ_ROADBARRIER) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1427" doublesided="false" scale="1.7" dimension="0" posX="-1981.3" posY="432.5" posZ="34.7" rotX="0" rotY="0" rotZ="17.996"></object>
+</map>

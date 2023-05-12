@@ -1,0 +1,9 @@
+<meta>
+	
+<script src="c.lua" type="client" cache="false" />
+	
+<script src="s.lua" type="server" />
+<file src="window.png" />
+<file src="cz.ttf" />
+
+</meta>

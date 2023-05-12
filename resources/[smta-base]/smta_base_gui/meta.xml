@@ -1,0 +1,17 @@
+<meta>
+	<script src="c.lua" type="client" cache="false"/>
+	<script src="s.lua" type="server"/>
+	<file src="cz.ttf"/>
+	<file src="hud.ttf"/>
+	<file src="grafiki/strzalka.png"/>
+	<file src="grafiki/zdrowie.png"/>
+	<file src="grafiki/najedzenie.png"/>
+	<file src="grafiki/niebieska_kropka.png"/>
+	<file src="grafiki/czerwona_kropka.png"/>
+	<file src="grafiki/cofnij.png"/>
+
+	<file src="ikonki/premium.png"/>
+	<file src="ikonki/czat.png"/>
+	<file src="ikonki/afk.png"/>
+	<file src="ikonki/admins.png"/>
+</meta>

@@ -1,0 +1,15 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false" /> 
+	<file src="cz.ttf" />
+	<file src="gfx/normalny.png" />
+	<file src="gfx/ulgowy.png" />
+	<file src="gfx/bg.png" />
+	<file src="gfx/bg2.png" />
+	<file src="gfx/button_off.png" />
+	<file src="gfx/button_on.png" />
+	<file src="gfx/button_off2.png" />
+	<file src="gfx/button_on2.png" />
+	<file src="gfx/button_off3.png" />
+	<file src="gfx/button_on3.png" />
+</meta>

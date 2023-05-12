@@ -1,0 +1,9 @@
+<meta>
+	<script src="c.lua" type="client" cache="false"/>
+	<export function="dxCreate" type="client"/>
+	<export function="dxDestroy" type="client"/>
+	<export function="dxAddColumn" type="client"/>
+	<export function="dxAddItem" type="client"/>
+	<export function="dxItemDetails" type="client"/>
+	<file src="cz.ttf" />
+</meta>

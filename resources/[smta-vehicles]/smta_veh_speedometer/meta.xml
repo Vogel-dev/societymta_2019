@@ -1,0 +1,16 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false" /> 
+	<file src="cz.ttf" />
+	<file src="licznik/benzyna.png" />
+	<file src="licznik/bialy.png" />
+	<file src="licznik/bialyon.png" />
+	<file src="licznik/lkierunek.png" />
+	<file src="licznik/pkierunek.png" />
+	<file src="licznik/paliwo1.png" />
+	<file src="licznik/paliwo2.png" />
+	<file src="licznik/paliwo3.png" />
+	<file src="licznik/paliwo4.png" />
+	<file src="licznik/wskazowka.png" />
+	<file src="licznik/wskazowka2.png" />
+</meta>

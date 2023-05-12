@@ -1,0 +1,19 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false" /> 
+	<file src="cz.ttf" />
+
+	<file src="img/bg.png" />
+	<file src="img/door_close.png" />
+	<file src="img/door_open.png" />
+	<file src="img/engine_off.png" />
+	<file src="img/engine_on.png" />
+	<file src="img/handbrake_off.png" />
+	<file src="img/handbrake_on.png" />
+	<file src="img/hood_open.png" />
+	<file src="img/hood_close.png" />
+	<file src="img/light_off.png" />
+	<file src="img/light_on.png" />
+	<file src="img/trunk_close.png" />
+	<file src="img/trunk_open.png" />
+</meta>

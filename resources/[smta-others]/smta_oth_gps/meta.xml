@@ -1,0 +1,15 @@
+<meta>
+		<oop>true</oop>
+	
+		<script src="classlib.lua" type="client" cache="false"/>
+		<script src="util.lua" type="client" cache="false"/>
+		<script src="Cursor.lua" type="client" cache="false"/>
+		<script src="dxUtil.lua" type="client" cache="false"/>
+	
+		<script src="radar_c.lua" type="client" cache="false" />
+		<script src="navi_c.lua" type="client" cache="false" />
+		<script src="nodes.lua" type="client" cache="false" />
+		<script src="settings.lua" type="client" cache="false" />
+
+		<export function="namierz" type="client" />
+</meta>

@@ -1,0 +1,28 @@
+<meta>
+	<file src="marker.png" type="client"/>
+	<script src="c.lua" type="client" cache="false"/>
+	<file src="drzwi_marker.png" type="client"/>
+	<file src="garaz_marker.png" type="client"/>
+	<file src="kupno_marker.png" type="client"/>
+	<file src="zatrudnianie_marker.png" type="client"/>
+	<file src="zdawanie_marker.png" type="client"/>
+	<file src="box_icon.png" type="client"/>
+	<file src="oddawanie_marker.png" type="client"/>
+	<file src="fastfood_marker.png" type="client"/>
+	<file src="stacjapaliw_marker.png" type="client"/>
+	<file src="kawiarnia_marker.png" type="client"/>
+	<file src="salon.png" type="client"/>
+	<file src="pojazd_icon.png" type="client"/>
+	<file src="tuning_marker.png" type="client"/>
+	<file src="malowanie_marker.png" type="client"/>
+	<file src="mechanik_marker.png" type="client"/>
+	<file src="bankomat_marker.png" type="client"/>
+	<file src="wedkarz_marker.png" type="client"/>
+	<file src="gielda_marker.png" type="client"/>
+ <file src="delivery_point.png" type="client"/>
+	<file src="kilof_icon.png" type="client"/>
+<file src="casino_marker.png" type="client"/>
+<file src="guns_marker.png" type="client"/>
+<file src="narko_marker.png" type="client"/>
+
+</meta>

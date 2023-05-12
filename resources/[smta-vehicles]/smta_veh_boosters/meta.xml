@@ -1,0 +1,19 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false" /> 
+	<file src="cz.ttf" />
+	<file src="gfx/bg1.png" />
+	<file src="gfx/bg2.png" />
+	<file src="gfx/1star_off.png" />
+	<file src="gfx/1star_on.png" />
+	<file src="gfx/2star_off.png" />
+	<file src="gfx/2star_on.png" />
+	<file src="gfx/awd_off.png" />
+	<file src="gfx/awd_on.png" />
+	<file src="gfx/fwd_on.png" />
+	<file src="gfx/fwd_off.png" />
+	<file src="gfx/off_off.png" />
+	<file src="gfx/off_on.png" />
+	<file src="gfx/rwd_off.png" />
+	<file src="gfx/rwd_on.png" />
+</meta>

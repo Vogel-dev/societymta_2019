@@ -1,0 +1,23 @@
+<meta>
+  	<script src="client.lua" type="client" cache="false" />
+	<script src="server.lua" type="server" />
+	<file src="muzyka.mp3" />
+	<file src="click.mp3" />
+	<file src="cz.ttf"/>
+	<file src="img/button_off.png"/>
+	<file src="img/button_on.png"/>
+	<file src="img/button2_off.png"/>
+	<file src="img/button2_on.png"/>
+	<file src="img/editbox.png"/>
+<file src="img/editbox_on.png"/>
+<file src="img/editbox_off.png"/>
+	<file src="img/logowanie_off.png"/>
+	<file src="img/logowanie_on.png"/>
+	<file src="img/rejestracja_off.png"/>
+	<file src="img/rejestracja_on.png"/>
+	<file src="img/save_off.png"/>
+	<file src="img/save_on.png"/>
+	<file src="img/tlo.png"/>
+	<file src="img/podswietlenie.png"/>
+	<file src="img/tlo2.png"/>
+</meta>

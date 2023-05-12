@@ -1,0 +1,10 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false" /> 
+	<file src="cz.ttf" />
+	<file src="gfx/bg.png" />
+	<file src="gfx/button_on.png" />
+	<file src="gfx/button_off.png" />
+	<file src="gfx/close_on.png" />
+	<file src="gfx/close_off.png" />
+</meta>

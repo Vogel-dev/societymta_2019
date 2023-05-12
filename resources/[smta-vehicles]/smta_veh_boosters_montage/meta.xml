@@ -1,0 +1,11 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false" /> 
+	<file src="cz.ttf" />
+	<file src="gfx/naped.png" />
+	<file src="gfx/silnik.png" />
+	<file src="gfx/turbo.png" />
+	<file src="gfx/bg.png" />
+	<file src="gfx/button_off.png" />
+	<file src="gfx/button_on.png" />
+</meta>

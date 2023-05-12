@@ -1,0 +1,13 @@
+<meta>
+<script src="s.lua" type="server" cache="false" />
+
+<script src="c.lua" type="client" cache="false" />
+
+<script src="replace.lua" type="client" cache="false" />
+
+<file src="22.dff" />
+<file src="22.txd" />
+<file src="cz.ttf" />
+<file src="window.png" />
+
+</meta>

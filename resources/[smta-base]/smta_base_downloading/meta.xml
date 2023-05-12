@@ -1,0 +1,21 @@
+<meta>
+    <oop>true</oop>
+    <min_mta_version client="1.5.5" server="1.5.5" />
+	<download_priority_group>1</download_priority_group>
+    <script src="kunde/herunterladen.lua" type="client" cache="false"/>
+
+    <file src="files/font/bold.ttf" type="client"/>
+    <file src="files/font/gtav.ttf" type="client"/>
+    <file src="files/font/light.ttf" type="client"/>
+    <file src="files/font/normal.ttf" type="client"/>
+    <file src="files/sound/musik.mp3" type="client"/>
+    <file src="files/texture/charaktere/1.png" type="client"/>
+    <file src="files/texture/charaktere/2.png" type="client"/>
+    <file src="files/texture/charaktere/3.png" type="client"/>  
+    <file src="files/texture/hintergrunde/1.png" type="client"/>
+    <file src="files/texture/hintergrunde/2.png" type="client"/>
+    <file src="files/texture/hintergrunde/3.png" type="client"/>
+    <file src="files/texture/hintergrund.png" type="client"/>
+   <file src="files/texture/wird_geladen.png" type="client"/>
+   <file src="files/texture/logo.png" type="client"/>
+</meta>

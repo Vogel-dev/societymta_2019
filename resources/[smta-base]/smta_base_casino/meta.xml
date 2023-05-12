@@ -1,0 +1,12 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false" /> 
+	<file src="cz.ttf" />
+	<file src="gfx/x2.png" />
+	<file src="gfx/x3.png" />
+	<file src="gfx/x4.png" />
+	<file src="gfx/x10.png" />
+	<file src="gfx/lose.png" />
+<file src="gfx/bg.png" />
+<file src="gfx/bg2.png" />
+</meta>

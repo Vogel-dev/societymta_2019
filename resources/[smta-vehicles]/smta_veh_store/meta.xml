@@ -1,0 +1,11 @@
+<meta>
+	<script src="s.lua" type="server"/>
+	<script src="c.lua" type="client" cache="false"/>
+	<file src="cz.ttf" />
+	<file src="gfx/kolor.png" />
+	<file src="gfx/logo.png" />
+	<file src="gfx/pasek_up.png" />
+	<file src="gfx/pasek_nieza.png" />
+	<file src="gfx/pasek_zazna.png" />
+	<file src="gfx/podpaskiem.png" />
+</meta>
